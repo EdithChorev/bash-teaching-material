@@ -1,7 +1,7 @@
 # Bash Teaching Resources
 This is my repository with teaching material for the bash and command line course for [Data Science Retreat](https://datascienceretreat.com).
 
-Original content developed and maintained by Dania Meira - [meira.dania@gmail.com](mailto:meira.dania@gmail.com) 
+Original content based and forked from Dania Meira - [meira.dania@gmail.com](mailto:meira.dania@gmail.com) 
 
 Distributed under the [MIT license](LICENSE.md).
 
