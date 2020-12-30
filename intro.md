@@ -169,7 +169,7 @@ $ find . -name "states.txt"
 ```
 
 
-Or using `grep` , one of the UNIX searching tools.
+Or using `grep` , one of the UNIX searching tools. grep: command line utility for searching plain-text data sets for lines that match a regular expression
 
 ```bash
 $ grep -rl MyClass .
