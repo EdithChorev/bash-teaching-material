@@ -11,7 +11,7 @@ Your shell is configured using
 
 `~/.bashrc` (Linux)
 
-`~/.bash_profile` (Mac - but Mac will also have a `bashrc`)
+`~/.bash_profile` (Mac - before catalina, after they moved to zsh shell and thus, ~/.zprofile)
 
 These scripts are run every time you start a new shell.  It is common to add `echo` statements to these files to get used to this idea.
 
