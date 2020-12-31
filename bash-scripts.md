@@ -3,6 +3,7 @@
 Anything you can run normally on the command line can be put into a script and it will do exactly the same thing. 
 Similarly, anything you can put into a script can also be run normally on the command line and it will do exactly the same thing.
 
+
 It is convention to give files that are bash scripts an extension of .sh 
 
 
@@ -17,7 +18,15 @@ There must also be no spaces before the # or between the ! and the path to the i
 
 Below that, we can add any commands like the ones we have been running directly at the command line.
 
-Check out more examples on [Chapter 4](https://www.datascienceatthecommandline.com/chapter-4-creating-reusable-command-line-tools.html#converting-one-liners-into-shell-scripts) of the Data Science at the Command Line book.
+One can also use: 
+  - if statements
+  - for loops
+  - while loops
+  - cases
+
+open count_lirunes.sh for an example:
+try to run the script.
+
 
 ## Running file / loading a file
 Often we will need to change permissions first:
